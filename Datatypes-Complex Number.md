@@ -1,19 +1,27 @@
-# 🧮 Datatypes-Complex Number Creation in Python
+# 🧮 Bitwise shift operation on the user given integers in python
 
 ## 🎯 Aim
-To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
+To write a Python program that reads two integer from the user and perform the bitwise left shift and right shift operation and print the output
 
 ## 🧠 Algorithm
-1. Read an integer input from the user and assign it to the variable `a` (real part).
-2. Read another integer input from the user and assign it to the variable `b` (imaginary part).
-3. Create a complex number `x` using the `complex(a, b)` function.
-4. Print the complex number `x`.
-5. Print the real part of `x` using `x.real`.
-6. Print the imaginary part of `x` using `x.imag`.
+1. Read an integer input from the user and assign it to the variable `a` 
+2. Read another integer input from the user and assign it to the variable `b`
+3. Print the right shift operation of two varaible using `>>`
+4. Print the left shift operation of two variable using `<<`
+
 
 ## 💻 Program
-Add Code Here
+```
+a = int(input())
+b = int(input())
+print(a >> b)
+print(a << b)
+```
 
 ## Output
 
+![bitwise operation](https://github.com/user-attachments/assets/277e8341-54ee-4b1b-affe-ac935b0e21dd)
+
 ## Result
+Thus a Python program that reads two integer from the user and perform the bitwise left shift and right shift operation is created.
+
