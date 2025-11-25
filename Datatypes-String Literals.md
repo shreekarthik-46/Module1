@@ -9,7 +9,16 @@ To write a Python program to read a string from the user and then print it.
 3. Print the value stored in the variable.
 
 ## 🧾 Program
+```
+men_stepped_on_the_moon=input()
+print(men_stepped_on_the_moon)
+```
 
 ## Output
 
+![varaiable](https://github.com/user-attachments/assets/0446e499-fcc7-48ca-a6a7-99135c233be7)
+
 ## Result
+Thus a Python program to read a string from the user is created
+
+
