@@ -1,16 +1,16 @@
-# 🧮 Bitwise shift operation on the user given integers in python
+# 1)4) Bitwise shift operation on the user given integers in python
 
-## 🎯 Aim
+##  Aim
 To write a Python program that reads two integer from the user and perform the bitwise left shift and right shift operation and print the output
 
-## 🧠 Algorithm
+##  Algorithm
 1. Read an integer input from the user and assign it to the variable `a` 
 2. Read another integer input from the user and assign it to the variable `b`
 3. Print the right shift operation of two varaible using `>>`
 4. Print the left shift operation of two variable using `<<`
 
 
-## 💻 Program
+##  Program
 ```
 a = int(input())
 b = int(input())
