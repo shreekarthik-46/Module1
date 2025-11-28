@@ -1,4 +1,4 @@
-# 1)4) Bitwise shift operation on the user given integers in python
+# 1) d) Bitwise shift operation on the user given integers in python
 
 ##  Aim
 To write a Python program that reads two integer from the user and perform the bitwise left shift and right shift operation and print the output
